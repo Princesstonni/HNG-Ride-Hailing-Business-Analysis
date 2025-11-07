@@ -4,7 +4,6 @@
 This project is a complete SQL driven analysis of a ride-hailing platform. It explores operational performance, rider behavior, driver activity, revenue growth, and service efficiency from 2021 to 2024. The goal was to extract clear insights that support strategic decision making and highlight opportunities for improvement.
 
 **Prepared by:** Osolake Mariam Omotolani  
-**Date:** October 2025  
 
 ---
 
@@ -167,6 +166,7 @@ HNG-Ride-Hailing-Analysis/
 - SQL query scripts  
 - PDF report  
 - README documentation
+  
 
 NOTE: The dataset used for this analysis belongs to HNG and is not publicly available.
 Queries are included for reference.
